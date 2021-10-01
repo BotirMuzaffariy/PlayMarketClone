@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_background"
+    tools:context=".ui.movies.MoviesFragment">
+
+    <include
+        android:id="@+id/i_search"
+        layout="@layout/search_section"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tl_movies"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:background="@color/main_background"
+        app:layout_constraintTop_toBottomOf="@id/i_search"
+        app:tabGravity="center"
+        app:tabIndicatorColor="@color/dark_pink"
+        app:tabIndicatorGravity="bottom"
+        app:tabIndicatorHeight="1.5dp"
+        app:tabMode="scrollable"
+        app:tabPaddingEnd="20dp"
+        app:tabPaddingStart="20dp"
+        app:tabRippleColor="@null"
+        app:tabSelectedTextColor="@color/dark_pink"
+        app:tabTextAppearance="@style/TabLayoutTabText"
+        app:tabTextColor="@color/gray_tl_text" />
+
+    <View
+        android:id="@+id/v1"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:alpha="0.4"
+        android:background="@color/gray"
+        app:layout_constraintTop_toBottomOf="@id/tl_movies" />
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/vp2_movies"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/v1" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,215 @@
+<resources>
+
+    <string name="app_name">Play Store Clone</string>
+
+    <string name="search_books">Search Books</string>
+    <string name="search_movies">Search Movies &amp; TV</string>
+    <string name="search_apps_and_games">Search for apps &amp; games</string>
+
+    <string name="tv_games">Games</string>
+    <string name="tv_apps">Apps</string>
+    <string name="tv_movies">Movies</string>
+    <string name="tv_books">Books</string>
+
+    <string name="tv_ads">Ads •</string>
+
+    <string name="tv_new">New</string>
+    <string name="tv_free">Free</string>
+    <string name="tv_cancel">Cancel</string>
+    <string name="tv_language">Language</string>
+    <string name="tv_top_free">Top free</string>
+    <string name="tv_top_movies">Top movies</string>
+    <string name="tv_categories">Categories</string>
+    <string name="tv_top_selling">Top selling</string>
+    <string name="tv_editors_choice">Editor\'s Choice Apps</string>
+    <string name="tv_new_movie_releases">New movie releases</string>
+    <string name="tv_new_releases_in_fiction">New releases in fiction</string>
+    <string name="tv_new_releases_in_nonfiction">New releases in nonfiction</string>
+
+    <string name="tv_theme">Theme</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_system">System default</string>
+
+    <!--    apps tab layout texts-->
+    <string name="apps_tab_text_1">For you</string>
+    <string name="apps_tab_text_2">Top charts</string>
+    <string name="apps_tab_text_3">Kids</string>
+    <string name="apps_tab_text_4">Categories</string>
+    <string name="apps_tab_text_5">Editors\' Choice</string>
+
+    <!--    app categories-->
+    <string name="apps_category_1">Watch apps</string>
+    <string name="apps_category_2">Watch faces</string>
+    <string name="apps_category_3">Art &amp; Design</string>
+    <string name="apps_category_4">Auto &amp; Vehicles</string>
+    <string name="apps_category_5">Beauty</string>
+    <string name="apps_category_6">Books &amp; References</string>
+    <string name="apps_category_7">Business</string>
+    <string name="apps_category_8">Comics</string>
+    <string name="apps_category_9">Communication</string>
+    <string name="apps_category_10">Education</string>
+    <string name="apps_category_11">Entertainment</string>
+    <string name="apps_category_12">Events</string>
+    <string name="apps_category_13">Finance</string>
+    <string name="apps_category_14">Food &amp; Drink</string>
+    <string name="apps_category_15">Google Cast</string>
+    <string name="apps_category_16">Health &amp; Fitness</string>
+    <string name="apps_category_17">House &amp; Home</string>
+    <string name="apps_category_18">Kids</string>
+    <string name="apps_category_19">Libraries &amp; Demo</string>
+    <string name="apps_category_20">Lifestyle</string>
+    <string name="apps_category_21">Maps &amp; Navigation</string>
+    <string name="apps_category_22">Medical</string>
+    <string name="apps_category_23">Music &amp; Audio</string>
+    <string name="apps_category_24">News &amp; Magazines</string>
+    <string name="apps_category_25">Parenting</string>
+    <string name="apps_category_26">Personalization</string>
+    <string name="apps_category_27">Photography</string>
+    <string name="apps_category_28">Productivity</string>
+    <string name="apps_category_29">Shopping</string>
+    <string name="apps_category_30">Social</string>
+    <string name="apps_category_31">Sports</string>
+    <string name="apps_category_32">Tools</string>
+    <string name="apps_category_33">Travel &amp; Local</string>
+    <string name="apps_category_34">Video Players &amp; Editors</string>
+    <string name="apps_category_35">Weather</string>
+
+    <!--    apps for you sections-->
+    <string name="apps_for_you_section_1">Top rated games</string>
+    <string name="apps_for_you_section_2">Suggested for you</string>
+    <string name="apps_for_you_section_3">Simulation games</string>
+    <string name="apps_for_you_section_4"><![CDATA[News & updated games]]></string>
+    <string name="apps_for_you_section_5">Discover recommended games</string>
+    <string name="apps_for_you_section_6">Offline games</string>
+
+    <!--    apps kids sections-->
+    <string name="apps_kids_section_1">Recommended for your kids</string>
+    <string name="apps_kids_section_2">Enriching apps</string>
+    <string name="apps_kids_section_3">Apps for kids</string>
+    <string name="apps_kids_section_4">Music apps</string>
+    <string name="apps_kids_section_6">Apps for artists</string>
+
+    <!--    books tab layout texts-->
+    <string name="books_tab_text_1">For you</string>
+    <string name="books_tab_text_2">Top selling</string>
+    <string name="books_tab_text_3">New releases</string>
+    <string name="books_tab_text_4">Genres</string>
+    <string name="books_tab_text_5">Top free</string>
+
+    <!--    books for you section texts-->
+    <string name="books_for_you_section_1">Top-selling ebooks</string>
+    <string name="books_for_you_section_2">New release ebooks</string>
+    <string name="books_for_you_section_3">Thrilling reads</string>
+    <string name="books_for_you_section_4">Business books</string>
+    <string name="books_for_you_section_5"><![CDATA[Sci-fi & fantasy ebooks]]></string>
+    <string name="books_for_you_section_6">Self-help ebooks</string>
+
+    <!--    books genres-->
+    <string name="books_genres_1"><![CDATA[Biographies & memories]]></string>
+    <string name="books_genres_2"><![CDATA[Business & investing]]></string>
+    <string name="books_genres_3">Children\'s books</string>
+    <string name="books_genres_4"><![CDATA[Computers & technology]]></string>
+    <string name="books_genres_5"><![CDATA[Cooking & housekeeping]]></string>
+    <string name="books_genres_6"><![CDATA[Fiction & literature]]></string>
+    <string name="books_genres_7"><![CDATA[Health & sports]]></string>
+    <string name="books_genres_8">History</string>
+    <string name="books_genres_9"><![CDATA[Mystery & thrillers]]></string>
+    <string name="books_genres_10"><![CDATA[Science fiction & fantasy]]></string>
+
+    <!--    games tab layout texts-->
+    <string name="games_tab_text_1">For you</string>
+    <string name="games_tab_text_2">Top charts</string>
+    <string name="games_tab_text_3">Kids</string>
+    <string name="games_tab_text_4">Premium</string>
+    <string name="games_tab_text_5">Categories</string>
+    <string name="games_tab_text_6">Editors\' Choice</string>
+
+    <!--    games categories-->
+    <string name="games_categories_1">Action</string>
+    <string name="games_categories_2">Adventure</string>
+    <string name="games_categories_3">Arcade</string>
+    <string name="games_categories_4">Board</string>
+    <string name="games_categories_5">Card</string>
+    <string name="games_categories_6">Casino</string>
+    <string name="games_categories_7">Casual</string>
+    <string name="games_categories_8">Educational</string>
+    <string name="games_categories_9">Music</string>
+    <string name="games_categories_10">Puzzle</string>
+    <string name="games_categories_11">Racing</string>
+    <string name="games_categories_12">Role Playing</string>
+    <string name="games_categories_13">Simulation</string>
+    <string name="games_categories_14">Sports</string>
+    <string name="games_categories_15">Strategy</string>
+    <string name="games_categories_16">Trivia</string>
+    <string name="games_categories_17">Word</string>
+
+    <!--    games sections-->
+    <string name="games_for_you_section_1">Top rated games</string>
+    <string name="games_for_you_section_2">Suggested for you</string>
+    <string name="games_for_you_section_3">Simulation games</string>
+    <string name="games_for_you_section_4"><![CDATA[News & updated games]]></string>
+    <string name="games_for_you_section_5">Discover recommended games</string>
+    <string name="games_for_you_section_6">Offline games</string>
+
+    <!--    games kids sections-->
+    <string name="games_kids_section_1">New + Updated</string>
+    <string name="games_kids_section_2">Offline games</string>
+    <string name="games_kids_section_3">Family games</string>
+    <string name="games_kids_section_4">Games for kids</string>
+    <string name="games_kids_section_5">Games you might like</string>
+    <string name="games_kids_section_6">Cartoony games</string>
+
+    <!--    games premium sections-->
+    <string name="games_premium_section_1">Games on Sale</string>
+    <string name="games_premium_section_2">War games</string>
+    <string name="games_premium_section_3">Card games</string>
+    <string name="games_premium_section_4">Management simulation</string>
+    <string name="games_premium_section_5">Puzzle adventure games</string>
+    <string name="games_premium_section_6">Recommended for you</string>
+
+    <!--    movies tab layout texts-->
+    <string name="movies_tab_text_1">For you</string>
+    <string name="movies_tab_text_2">Top selling</string>
+    <string name="movies_tab_text_3">New releases</string>
+    <string name="movies_tab_text_4">Genres</string>
+    <string name="movies_tab_text_5">Studios</string>
+
+    <!--    movies fot you sections-->
+    <string name="movies_for_you_section_1">New movies</string>
+    <string name="movies_for_you_section_2">Recommended for you</string>
+    <string name="movies_for_you_section_3">New to rent</string>
+    <string name="movies_for_you_section_4">Mafia movies</string>
+    <string name="movies_for_you_section_5"><![CDATA[Action & Adventure movies]]></string>
+    <string name="movies_for_you_section_6">Family movies</string>
+
+    <!--    movies genres-->
+    <string name="movies_genres_1"><![CDATA[Action & Adventure]]></string>
+    <string name="movies_genres_2">Animation</string>
+    <string name="movies_genres_3">Comedy</string>
+    <string name="movies_genres_4">Documentary</string>
+    <string name="movies_genres_5">Drama</string>
+    <string name="movies_genres_6">Horror</string>
+    <string name="movies_genres_7">Music</string>
+
+    <!--    movies studios sections-->
+    <string name="movies_studios_section_1">20th Century Studios movies</string>
+    <string name="movies_studios_section_2">MGM movies</string>
+    <string name="movies_studios_section_3">Paramount movies</string>
+    <string name="movies_studios_section_4">Sony movies</string>
+    <string name="movies_studios_section_5">Warner Bros moviemovies</string>
+    <string name="movies_studios_section_6">Universal movies</string>
+
+    <!--    more functions screen's texts-->
+    <string name="tv_manage_google_account">Manage your Google Account</string>
+    <string name="tv_manage_apps_and_device"><![CDATA[Manage apps & device]]></string>
+    <string name="tv_library">Library</string>
+    <string name="tv_payments_and_subscription"><![CDATA[Payments & subscription]]></string>
+    <string name="tv_play_protect">Play Protect</string>
+    <string name="tv_offers_and_notifications"><![CDATA[Offers & notifications]]></string>
+    <string name="tv_settings">Settings</string>
+    <string name="tv_help_and_feedback"><![CDATA[Help & feedback]]></string>
+    <string name="tv_privacy_and_terms">Privacy Policy • Terms of Service</string>
+    <string name="tv_error">Someting went wrong. Please try again</string>
+
+</resources>

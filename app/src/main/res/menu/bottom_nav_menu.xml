@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/m_games"
+        android:icon="@drawable/ic_games_m"
+        android:title="@string/tv_games" />
+
+    <item
+        android:id="@+id/m_apps"
+        android:icon="@drawable/ic_apps_m"
+        android:title="@string/tv_apps" />
+
+    <item
+        android:id="@+id/m_movies"
+        android:icon="@drawable/ic_movies_m"
+        android:title="@string/tv_movies" />
+
+    <item
+        android:id="@+id/m_books"
+        android:icon="@drawable/ic_books_m"
+        android:title="@string/tv_books" />
+
+</menu>

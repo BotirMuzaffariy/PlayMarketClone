@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BottomNavTextActiveGreen">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/green</item>
+    </style>
+
+    <style name="BottomNavTextActivePink">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/dark_pink</item>
+    </style>
+
+    <style name="BottomNavTextActiveBlue">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/blue</item>
+    </style>
+
+    <style name="BottomNavTextInactive">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/text_color</item>
+    </style>
+
+    <style name="TabLayoutTabText">
+        <item name="textAllCaps">false</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+</resources>

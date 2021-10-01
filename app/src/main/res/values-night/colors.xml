@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="gray_text">#5F6368</color>
+    <color name="gray_light">#525357</color>
+    <color name="gray_tl_text">#9AA0A6</color>
+
+    <color name="blue">#50B4F4</color>
+    <color name="green">#00A173</color>
+    <color name="dark_pink">#FF3369</color>
+    <color name="text_color">#E1E2E6</color>
+    <color name="icon_color">#979A9F</color>
+    <color name="main_background">#202125</color>
+
+</resources>

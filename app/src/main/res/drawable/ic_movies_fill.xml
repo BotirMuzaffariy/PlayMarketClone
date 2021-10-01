@@ -1,0 +1,54 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+    <path
+        android:fillColor="@color/dark_pink"
+        android:pathData="m61,497c0,8.398 6.598,15 15,15h30c8.402,0 15,-6.602 15,-15v-37.5h-60zM61,497" />
+    <path
+        android:fillColor="@color/dark_pink"
+        android:pathData="m106,0h-30c-8.402,0 -15,6.598 -15,15v39.5h60v-39.5c0,-8.402 -6.598,-15 -15,-15zM106,0" />
+    <path
+        android:fillColor="@color/dark_pink"
+        android:pathData="m61,234.5h60v45h-60zM61,234.5" />
+    <path
+        android:fillColor="@color/dark_pink"
+        android:pathData="m61,309.5h60v45h-60zM61,309.5" />
+    <path
+        android:fillColor="@color/dark_pink"
+        android:pathData="m61,84.5h60v45h-60zM61,84.5" />
+    <path
+        android:fillColor="@color/dark_pink"
+        android:pathData="m151,62h210v180h-210zM151,62" />
+    <path
+        android:fillColor="@color/dark_pink"
+        android:pathData="m151,272h210v180h-210zM151,272" />
+    <path
+        android:fillColor="@color/dark_pink"
+        android:pathData="m61,159.5h60v45h-60zM61,159.5" />
+    <path
+        android:fillColor="@color/dark_pink"
+        android:pathData="m61,384.5h60v45h-60zM61,384.5" />
+    <path
+        android:fillColor="@color/dark_pink"
+        android:pathData="m391,497c0,8.398 6.598,15 15,15h30c8.402,0 15,-6.602 15,-15v-37.5h-60zM391,497" />
+    <path
+        android:fillColor="@color/dark_pink"
+        android:pathData="m436,0h-30c-8.402,0 -15,6.598 -15,15v39.5h60v-39.5c0,-8.402 -6.598,-15 -15,-15zM436,0" />
+    <path
+        android:fillColor="@color/dark_pink"
+        android:pathData="m391,234.5h60v45h-60zM391,234.5" />
+    <path
+        android:fillColor="@color/dark_pink"
+        android:pathData="m391,309.5h60v45h-60zM391,309.5" />
+    <path
+        android:fillColor="@color/dark_pink"
+        android:pathData="m391,84.5h60v45h-60zM391,84.5" />
+    <path
+        android:fillColor="@color/dark_pink"
+        android:pathData="m391,159.5h60v45h-60zM391,159.5" />
+    <path
+        android:fillColor="@color/dark_pink"
+        android:pathData="m391,384.5h60v45h-60zM391,384.5" />
+</vector>

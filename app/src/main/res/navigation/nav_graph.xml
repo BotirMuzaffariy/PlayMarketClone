@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/gamesFragment">
+
+    <fragment
+        android:id="@+id/gamesFragment"
+        android:name="uz.lazycoder.playmarketclone.ui.games.GamesFragment"
+        android:label="fragment_games"
+        tools:layout="@layout/fragment_games" />
+    <fragment
+        android:id="@+id/appsFragment"
+        android:name="uz.lazycoder.playmarketclone.ui.apps.AppsFragment"
+        android:label="fragment_apps"
+        tools:layout="@layout/fragment_apps" />
+    <fragment
+        android:id="@+id/moviesFragment"
+        android:name="uz.lazycoder.playmarketclone.ui.movies.MoviesFragment"
+        android:label="fragment_movies"
+        tools:layout="@layout/fragment_movies" />
+    <fragment
+        android:id="@+id/booksFragment"
+        android:name="uz.lazycoder.playmarketclone.ui.books.BooksFragment"
+        android:label="fragment_books"
+        tools:layout="@layout/fragment_books" />
+    <fragment
+        android:id="@+id/moreFunctionsFragment"
+        android:name="uz.lazycoder.playmarketclone.ui.MoreFunctionsFragment"
+        android:label="fragment_more_functions"
+        tools:layout="@layout/fragment_more_functions" />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="uz.lazycoder.playmarketclone.ui.settings.SettingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
+</navigation>

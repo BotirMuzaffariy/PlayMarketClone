@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/drawable/ic_apps.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/drawable/ic_apps_fill.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/drawable/ic_apps_m.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/drawable/ic_arrow_right.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/drawable/ic_books.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/drawable/ic_books_fill.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/drawable/ic_books_m.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/drawable/ic_gamepad.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/drawable/ic_gamepad_fill.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/drawable/ic_games_m.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/drawable/ic_microphone.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/drawable/ic_movies.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/drawable/ic_movies_fill.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/drawable/ic_movies_m.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/drawable/ic_search.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/drawable/tl_indicator.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/layout/activity_main.xml" value="0.17569444444444443" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/layout/activity_splash.xml" value="0.1776061776061776" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/layout/fragment_apps.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/layout/fragment_books.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/layout/fragment_games.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/layout/fragment_games_editors_choice.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/layout/fragment_games_for_you.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/layout/fragment_movies.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/layout/fragment_movies_for_you.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/layout/fragment_movies_studios.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/layout/fragment_movies_top_selling.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/layout/item_rv_games_for_you.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/layout/item_rv_games_for_you_ads.xml" value="0.1776061776061776" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/layout/item_rv_normal.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/layout/search_section.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/My Play Market/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/drawable/bg_round_line.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/drawable/bg_top.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/drawable/ic_arrow_back.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/drawable/ic_arrow_drop_down.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/drawable/ic_close.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/drawable/ic_help.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/drawable/ic_library.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/drawable/ic_manage.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/drawable/ic_notifications.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/drawable/ic_payment.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/drawable/ic_protect.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/drawable/ic_settings.xml" value="0.191796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/drawable/ic_star_rate.xml" value="0.18957528957528957" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/activity_main.xml" value="0.1776061776061776" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/activity_splash.xml" value="0.15384615384615385" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_apps.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_apps_categories.xml" value="0.1776061776061776" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_apps_editors_choice.xml" value="0.1776061776061776" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_apps_for_you.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_apps_kids.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_apps_top_charts.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_books.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_books_for_you.xml" value="0.1776061776061776" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_books_genres.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_books_new_releases.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_books_top_free.xml" value="0.1776061776061776" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_books_top_selling.xml" value="0.1776061776061776" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_games.xml" value="0.1776061776061776" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_games_categories.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_games_editors_choice.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_games_for_you.xml" value="0.1673611111111111" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_games_kids.xml" value="0.175" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_games_premium.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_games_top_charts.xml" value="0.1776061776061776" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_more_functions.xml" value="0.1776061776061776" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_more_funktions.xml" value="0.168359375" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_movies.xml" value="0.1673611111111111" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_movies_for_you.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_movies_genres.xml" value="0.1776061776061776" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_movies_new_release.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_movies_new_releases.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_movies_studios.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_movies_top_selling.xml" value="0.1776061776061776" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/fragment_settings.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/item_rv_apps_for_you.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/item_rv_apps_for_you_ads.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/item_rv_books_for_you.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/item_rv_categories.xml" value="0.1776061776061776" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/item_rv_games_and_apps_kids.xml" value="0.1776061776061776" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/item_rv_games_and_apps_top_chart.xml" value="0.1776061776061776" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/item_rv_games_categories.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/item_rv_games_for_you.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/item_rv_games_for_you_ads.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/item_rv_games_kids.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/item_rv_inner.xml" value="0.1776061776061776" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/item_rv_inner_ads.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/item_rv_inner_big.xml" value="0.1776061776061776" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/item_rv_inner_books.xml" value="0.1776061776061776" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/item_rv_inner_movies.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/item_rv_inner_small.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/item_rv_movies.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/item_rv_movies_and_books_top.xml" value="0.1776061776061776" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/item_rv_movies_and_books_top_selling.xml" value="0.1776061776061776" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/item_rv_movies_for_you.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/layout/search_section.xml" value="0.1796875" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/#Real Loyihalar#/Kotlin/Play Market Clone/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1776061776061776" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
